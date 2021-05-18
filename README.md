@@ -6,6 +6,7 @@ For use in populating and formatting product availibility worksheet from invento
 ## Libraries
 
 -openpyxl
+-pandas
 
 
 ## Methods
